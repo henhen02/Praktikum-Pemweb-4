@@ -73,6 +73,7 @@ header {
 .dark footer {
   background-color: #8b8b8b;
   color: #80e792;
+  transition: 0.6s;
 }
 
 nav {
@@ -276,6 +277,7 @@ footer {
   }
   #content {
     width: 80%;
+    transition: 0.6s;
   }
   aside {
     flex-direction: row;
@@ -286,6 +288,7 @@ footer {
   }
   .item-box {
     width: 70%;
+    transition: 0.6s;
   }
   .bio {
     text-align: left;
@@ -296,6 +299,7 @@ footer {
     width: 100%;
     float: none;
     margin: auto;
+    transition: 0.6s;
   }
   aside {
     flex-direction: column;
